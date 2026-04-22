@@ -1,4 +1,5 @@
 import CustomerQuote from "../models/CustomerQuote.js";
+import Product from "../models/Product.js";
 
 // CREATE a new quote
 export const createCustomerQuote = async (req, res) => {
