@@ -1,0 +1,27 @@
+# Node modules (VERY IMPORTANT)
+node_modules/
+
+# Environment variables (SECRETS)
+.env
+
+# Build output
+dist/
+build/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings (optional)
+.vscode/
+
+# Mac system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
